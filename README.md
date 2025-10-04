@@ -74,9 +74,9 @@ Add your credentials to the repository so the agent can use them.
 
 | Secret Name | Value | Example |
 | :--- | :--- | :--- |
-| `MAIL_USERNAME` | Your full Gmail address | `azizsnoussi@gmail.com` |
+| `MAIL_USERNAME` | Your full Gmail address | `xxxx@gmail.com` |
 | `MAIL_PASSWORD` | The 16-character App Password | `xxxx-xxxx-xxxx-xxxx` |
-| `MAIL_TO` | Your destination email address | `azizsnoussi@gmail.com` |
+| `MAIL_TO` | Your destination email address | `xxxx@gmail.com` |
 
 ### 3. Activate the Agent
 
